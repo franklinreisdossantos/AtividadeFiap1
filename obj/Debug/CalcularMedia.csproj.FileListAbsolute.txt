@@ -1,0 +1,6 @@
+C:\Users\frank\source\repos\CalcularMedia\bin\Debug\CalcularMedia.exe
+C:\Users\frank\source\repos\CalcularMedia\bin\Debug\CalcularMedia.pdb
+C:\Users\frank\source\repos\CalcularMedia\obj\Debug\CalcularMedia.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\CalcularMedia\obj\Debug\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\CalcularMedia\obj\Debug\CalcularMedia.exe
+C:\Users\frank\source\repos\CalcularMedia\obj\Debug\CalcularMedia.pdb
